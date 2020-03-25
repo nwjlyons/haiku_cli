@@ -1,6 +1,6 @@
 # HaikuCli
 
-**TODO: Add description**
+Haiku (meaning a very short form of Japanese poetry) is a random name generator.
 
 ## Installation
 
