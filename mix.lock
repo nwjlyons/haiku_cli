@@ -1,0 +1,3 @@
+%{
+  "haiku": {:git, "https://github.com/nwjlyons/haiku.git", "b22239f06d1e7b9c161db611283063e6e1d629e0", [tag: "v0.1.0"]},
+}
