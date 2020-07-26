@@ -5,7 +5,7 @@ Haiku (meaning a very short form of [Japanese poetry](http://en.wikipedia.org/wi
 ## Installation
 
 ```bash
-mix escript.install github nwjlyons/haiku
+mix escript.install github nwjlyons/haiku_cli
 ```
 
 Add `~/.mix/escripts` to your `PATH`.
